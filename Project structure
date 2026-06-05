@@ -1,0 +1,14 @@
+LifeLens/
+│
+├── 📁 frontend
+├── 📁 backend
+├── 📁 database
+├── 📁 ai-model
+├── 📁 assets
+├── 📁 screenshots
+├── 📁 docs
+│
+├── README.md
+├── package.json
+├── .gitignore
+└── LICENSE
